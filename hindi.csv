@@ -1,0 +1,101 @@
+﻿Text,Sentiment
+यह उत्पाद बहुत अच्छा है,Positive
+मुझे यह पसंद आया,Positive
+बहुत बढ़िया क्वालिटी है,Positive
+सेवा बहुत अच्छी थी,Positive
+मैं इससे खुश हूँ,Positive
+बहुत ही अच्छा अनुभव,Positive
+यह सबसे अच्छा है,Positive
+क्वालिटी बहुत अच्छी है,Positive
+मुझे बहुत अच्छा लगा,Positive
+शानदार उत्पाद है,Positive
+यह उत्पाद खराब है,Negative
+मुझे पसंद नहीं आया,Negative
+बहुत खराब क्वालिटी है,Negative
+सेवा बहुत बुरी थी,Negative
+मैं नाराज़ हूँ,Negative
+बहुत ही बुरा अनुभव,Negative
+यह सबसे खराब है,Negative
+क्वालिटी बिल्कुल अच्छी नहीं है,Negative
+मुझे बिल्कुल अच्छा नहीं लगा,Negative
+बहुत खराब उत्पाद है,Negative
+उत्पाद अच्छा है,Positive
+सेवा अच्छी है,Positive
+क्वालिटी बेहतरीन है,Positive
+यह बहुत अच्छा है,Positive
+मुझे खुशी हुई,Positive
+बहुत अच्छा लगा,Positive
+यह उत्पाद सही है,Positive
+अनुभव अच्छा था,Positive
+सेवा तेज है,Positive
+बहुत ही अच्छा उत्पाद,Positive
+उत्पाद खराब निकला,Negative
+सेवा धीमी है,Negative
+क्वालिटी बेकार है,Negative
+बहुत बुरा लगा,Negative
+मुझे गुस्सा आया,Negative
+यह उत्पाद बेकार है,Negative
+अनुभव खराब था,Negative
+सेवा बिल्कुल अच्छी नहीं,Negative
+बहुत ही खराब उत्पाद,Negative
+यह बिल्कुल बेकार है,Negative
+अच्छा उत्पाद है,Positive
+बहुत अच्छी सेवा,Positive
+शानदार क्वालिटी है,Positive
+यह सबसे अच्छा उत्पाद है,Positive
+मुझे पसंद आया,Positive
+बहुत ही बढ़िया है,Positive
+सेवा उत्कृष्ट है,Positive
+क्वालिटी परफेक्ट है,Positive
+बहुत खुशी हुई,Positive
+यह बहुत अच्छा है,Positive
+बेकार उत्पाद है,Negative
+बहुत खराब सेवा,Negative
+क्वालिटी कमजोर है,Negative
+यह सबसे खराब उत्पाद है,Negative
+मुझे बिल्कुल पसंद नहीं,Negative
+बहुत ही बुरा है,Negative
+सेवा में देरी है,Negative
+क्वालिटी घटिया है,Negative
+बहुत खराब अनुभव,Negative
+यह बहुत बेकार है,Negative
+उत्पाद शानदार है,Positive
+सेवा अच्छी लगी,Positive
+क्वालिटी अच्छी है,Positive
+बहुत अच्छा अनुभव रहा,Positive
+मैं संतुष्ट हूँ,Positive
+यह बहुत बढ़िया है,Positive
+सेवा अच्छी थी,Positive
+क्वालिटी जबरदस्त है,Positive
+बहुत अच्छा परिणाम,Positive
+यह अच्छा है,Positive
+उत्पाद अच्छा नहीं है,Negative
+सेवा खराब थी,Negative
+क्वालिटी ठीक नहीं है,Negative
+बहुत खराब अनुभव रहा,Negative
+मैं असंतुष्ट हूँ,Negative
+यह बिल्कुल सही नहीं है,Negative
+सेवा बहुत खराब है,Negative
+क्वालिटी बेकार निकली,Negative
+बहुत बुरा परिणाम,Negative
+यह खराब है,Negative
+यह शानदार है,Positive
+बहुत अच्छा काम करता है,Positive
+सेवा से खुश हूँ,Positive
+क्वालिटी बहुत बढ़िया है,Positive
+यह बेहतरीन है,Positive
+उत्पाद अच्छा लगा,Positive
+सेवा बढ़िया है,Positive
+क्वालिटी अच्छी लगी,Positive
+बहुत अच्छा लगा,Positive
+यह अच्छा उत्पाद है,Positive
+यह घटिया है,Negative
+बहुत खराब काम करता है,Negative
+सेवा से नाखुश हूँ,Negative
+क्वालिटी बहुत खराब है,Negative
+यह बेकार है,Negative
+उत्पाद खराब लगा,Negative
+सेवा खराब है,Negative
+क्वालिटी खराब लगी,Negative
+बहुत बुरा लगा,Negative
+यह खराब उत्पाद है,Negative
