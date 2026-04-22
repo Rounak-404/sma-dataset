@@ -1,0 +1,28 @@
+html_data = """
+<html>
+<body>
+<table border="1">
+<tr>
+    <th>Platform</th>
+    <th>Sales</th>
+    <th>Likes</th>
+</tr>
+<tr>
+    <td>Instagram</td>
+    <td>1200</td>
+    <td>150</td>
+</tr>
+<tr>
+    <td>Twitter</td>
+    <td>900</td>
+    <td>120</td>
+</tr>
+<tr>
+    <td>Facebook</td>
+    <td>1500</td>
+    <td>200</td>
+</tr>
+</table>
+</body>
+</html>
+"""
